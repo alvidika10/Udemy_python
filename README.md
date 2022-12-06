@@ -1,2 +1,2 @@
 # Hangman
-this code to create a hangman, step by step.
+this code for my learning, python bootcamp 
